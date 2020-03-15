@@ -1,0 +1,40 @@
+.container1 {
+    background-color: black;
+    font-family: nexabold;
+    
+}
+
+.vr {
+    font-family: magma;
+}
+
+.textonl {
+    font-family: nexalig;
+}
+
+.textonl2{
+    font-family: nexalig;
+}
+
+.imgvr {
+    width: 25%;
+}
+
+.margintop{
+    margin-top: 5%;
+}
+
+@font-face {
+    font-family: "nexabold";
+    src: url("../fuentes/nexabold.otf");
+}
+
+@font-face {
+    font-family: "magma";
+    src: url("../fuentes/magma.otf");
+}
+
+@font-face {
+    font-family: "nexalig";
+    src: url("../fuentes/nexalig.otf");
+}
